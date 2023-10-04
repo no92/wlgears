@@ -1,4 +1,4 @@
-project('wlgears', ['c'], license: 'MIT')
+project('wlgears', ['c'], license: 'MIT', version: '0.1.0')
 
 cc = meson.get_compiler('c')
 
